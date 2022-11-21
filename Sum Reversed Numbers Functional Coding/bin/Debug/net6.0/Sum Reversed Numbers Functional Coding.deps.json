@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sum Reversed Numbers Functional Coding/1.0.0": {
+        "runtime": {
+          "Sum Reversed Numbers Functional Coding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum Reversed Numbers Functional Coding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

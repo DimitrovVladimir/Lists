@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\bin\Debug\net6.0\Sum Reversed Numbers Functional Coding.exe
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\bin\Debug\net6.0\Sum Reversed Numbers Functional Coding.deps.json
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\bin\Debug\net6.0\Sum Reversed Numbers Functional Coding.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\bin\Debug\net6.0\Sum Reversed Numbers Functional Coding.dll
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\bin\Debug\net6.0\Sum Reversed Numbers Functional Coding.pdb
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.dll
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\refint\Sum Reversed Numbers Functional Coding.dll
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.pdb
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\Sum Reversed Numbers Functional Coding.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\List\Sum Reversed Numbers Functional Coding\obj\Debug\net6.0\ref\Sum Reversed Numbers Functional Coding.dll
